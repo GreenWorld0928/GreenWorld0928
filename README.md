@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I love Great anb Wonderful Code, so call me GW!</h1>
+<h1 align="center">Hi 👋, I love Great and Wonderful Code, so call me GW!</h1>
 <h3 align="center">Let's make the best product with me</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GreenWorld0928&label=Profile%20views&color=0e75b6&style=flat" alt="GreenWorld0928" /> </p>

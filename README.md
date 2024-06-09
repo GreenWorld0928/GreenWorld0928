@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working @ [blackcard](https://blackcard.dev/)
 
-- 🌱 I’m currently learning **React, Next, Node, Gatsby, TailwindCSS, Laravel, ASP.NET, AWS, React Native, Flutter, AWS**
+- 🌱 I’m currently learning **React, Next, Flutter, React Native, Node, Gatsby, TailwindCSS, Laravel, ASP.NET, AWS**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/GreenWorld0928?tab=repositories](https://github.com/GreenWorld0928?tab=repositories)
 

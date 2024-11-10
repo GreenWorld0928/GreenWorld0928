@@ -8,7 +8,6 @@
 </a> 
 </p>
 
-- 🔭 I’m currently working @ [blackcard](https://blackcard.dev/)
 
 - 🌱 I’m currently learning **React, Next, Flutter, React Native, Node, Gatsby, TailwindCSS, Laravel, ASP.NET, AWS**
 
